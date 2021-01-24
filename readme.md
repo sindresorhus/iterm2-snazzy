@@ -7,7 +7,7 @@
 
 ## Install
 
-- Right-click [`Snazzy.itermcolors`](https://github.com/sindresorhus/iterm2-snazzy/raw/master/Snazzy.itermcolors) and choose `Save Link As…`.
+- Right-click [`Snazzy.itermcolors`](https://github.com/sindresorhus/iterm2-snazzy/raw/main/Snazzy.itermcolors) and choose `Save Link As…`.
 - Double-click the downloaded file.
 
 ## Tip
