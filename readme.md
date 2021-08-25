@@ -18,3 +18,4 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 
 - [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Hyper version
 - [terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy) - Terminal version
+- [st-snazzy](https://github.com/Dko1905/st-snazzy) - Simple Terminal version (suckless st)
